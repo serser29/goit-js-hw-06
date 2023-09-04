@@ -10,7 +10,7 @@ loginForm.addEventListener("submit", function (event) {
   });
 
   if (!formObject.email || !formObject.password) {
-    alert("Please fill in all fields");
+    alert("Don't cheat, let's be honest!)");
     return;
   }
 
